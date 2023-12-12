@@ -1,8 +1,8 @@
-- 👋 Hi all, I’m @rldevries (I will simply follow the format here!)
+- 👋 Hi all, I’m @rldevries (staying within the format here!)
 - 👀 I’m interested in software design, cybersecurity and new technologies.
-- 🌱 I’m currently learning at the University of Ottawa through Canada's Coding for Veterans Program
-- 💞️ I’m not currently looking to collaborate on any particular topic since this learning environment consumes vast amount of time
-- 📫 How to reach me ... this is WIP for now.
+- 🌱 Completed University of Ottawa curriculum in Software Engineering/Cybersecurity through Canada's Coding for Veterans Program
+- 💞️ Looking to collaborate on any software platform (have patience)
+- 📫 How to reach me ... rodevstad@gmail.com will certainly fill this criteria
 
 <!---
 rldevries/rldevries is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
